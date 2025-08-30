@@ -45,10 +45,6 @@ virtual-mechanic/
 - This is an **MVP** with rule‑based diagnostics and a tiny schedule dataset to demonstrate the flow.
 - Add more JSON rules/schedules and connect real ML models in `ml/` later.
 
-##Access the application:
 
-            Frontend (Chat): http://localhost:3000
-            Backend API Docs: http://localhost:8000/docs
-
--This project was conceptualized on August 25th, 2025, in Bengaluru.  
+This project was conceptualized on August 25th, 2025, in Bengaluru.  
 
