@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.env
+.venv/
+
+# Node
+node_modules/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-store/
+.DS_Store
+
+# Build outputs
+frontend/dist/
+frontend/.vite/
+
+# VSCode
+.vscode/
+
+# Docker
+*.pid
+
+# Data & models (keep samples only)
+ml/models/*.pkl
+!ml/models/.gitkeep
