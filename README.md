@@ -1,39 +1,3 @@
-Virtual Mechanic Chatbot
-    Welcome to the Virtual Mechanic project! This is an AI-powered chatbot designed to help car owners diagnose problems, get maintenance schedules, and receive helpful tips about their vehicles.
-
-Project Structure
-    This repository is a monorepo containing all the services for the application:
-
-        /backend: The core server application built with Python and FastAPI. It serves the main API that the frontend interacts with.
-
-        /frontend: A React-based web application that provides the user-facing chat interface.
-
-        /ml: Contains all the scripts and notebooks for training, evaluating, and serving our machine learning models.
-
-        /data: Holds all the datasets, from raw scrapes to processed training data and maintenance schedules.
-
-Getting Started
-    Prerequisites
-        Docker and Docker Compose
-        Python 3.9+
-        Node.js 16+
-
-    Local Development
-        Clone the repository:
-
-            git clone <repository_url>
-            cd virtual-mechanic
-
-        Build and run the services using Docker Compose:
-
-            docker-compose up --build
-
-        Access the application:
-
-            Frontend (Chat): http://localhost:3000
-            Backend API Docs: http://localhost:8000/docs
-
-This project was conceptualized on August 25th, 2025, in Bengaluru.
 
 # Virtual Mechanic (Chatbot)
 
@@ -80,4 +44,11 @@ virtual-mechanic/
 ## Notes
 - This is an **MVP** with rule‑based diagnostics and a tiny schedule dataset to demonstrate the flow.
 - Add more JSON rules/schedules and connect real ML models in `ml/` later.
+
+##Access the application:
+
+            Frontend (Chat): http://localhost:3000
+            Backend API Docs: http://localhost:8000/docs
+
+-This project was conceptualized on August 25th, 2025, in Bengaluru.  
 
