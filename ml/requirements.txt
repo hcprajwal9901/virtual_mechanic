@@ -1,4 +1,4 @@
-pandas
-scikit-learn
-jupyterlab
-numpy
+scikit-learn==1.5.1
+pandas==2.2.2
+numpy==1.26.4
+jupyter==1.0.0
