@@ -1,0 +1,10 @@
+{
+    "car_model": "Toyota Innova",
+    "maintenance_schedule": {
+        "oil_change_km": 10000,
+        "brake_pad_km": 35000,
+        "coolant_change_km": 50000,
+        "timing_belt_km": 80000,
+        "tire_rotation_km": 10000
+    }
+}

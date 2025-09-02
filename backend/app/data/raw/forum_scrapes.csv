@@ -1,0 +1,201 @@
+id,car_model,symptom,possible_cause,suggested_fix,forum_post
+1,Maruti Suzuki Baleno,headlights dimming,starter motor issue,replace wheel bearing,My Maruti Suzuki Baleno has an issue: headlights dimming. What could be wrong?
+2,Honda Amaze,check engine light on,dirty fuel injector,inflate tires,My Honda Amaze has an issue: check engine light on. What could be wrong?
+3,Maruti Suzuki Dzire,oil leakage,coolant leakage,fix coolant leakage,My Maruti Suzuki Dzire has an issue: oil leakage. What could be wrong?
+4,Skoda Kushaq,gear shifting problem,serpentine belt worn,replace belt,My Skoda Kushaq has an issue: gear shifting problem. What could be wrong?
+5,Maruti Suzuki Dzire,car pulling to one side,low coolant,replace battery,My Maruti Suzuki Dzire has an issue: car pulling to one side. What could be wrong?
+6,Kia Sonet,uneven tire wear,faulty thermostat,clean fuel injector,My Kia Sonet has an issue: uneven tire wear. What could be wrong?
+7,Hyundai i20,car stalling at idle,low engine oil,clean fuel injector,My Hyundai i20 has an issue: car stalling at idle. What could be wrong?
+8,Hyundai Venue,check engine light on,transmission issue,fix coolant leakage,My Hyundai Venue has an issue: check engine light on. What could be wrong?
+9,Tata Safari,car pulling to one side,dirty fuel injector,replace thermostat,My Tata Safari has an issue: car pulling to one side. What could be wrong?
+10,Renault Kwid,dashboard warning lights,bad spark plugs,replace spark plugs,My Renault Kwid has an issue: dashboard warning lights. What could be wrong?
+11,Hyundai Creta,headlights dimming,alternator failure,replace oxygen sensor,My Hyundai Creta has an issue: headlights dimming. What could be wrong?
+12,Kia Seltos,car won't start,serpentine belt worn,replace wheel bearing,My Kia Seltos has an issue: car won't start. What could be wrong?
+13,Maruti Suzuki Alto,engine overheating,low engine oil,wheel alignment,My Maruti Suzuki Alto has an issue: engine overheating. What could be wrong?
+14,Renault Kwid,car pulling to one side,clogged air filter,replace oxygen sensor,My Renault Kwid has an issue: car pulling to one side. What could be wrong?
+15,Hyundai Venue,uneven tire wear,low tire pressure,replace battery,My Hyundai Venue has an issue: uneven tire wear. What could be wrong?
+16,Maruti Suzuki Dzire,uneven tire wear,transmission issue,replace battery,My Maruti Suzuki Dzire has an issue: uneven tire wear. What could be wrong?
+17,Skoda Slavia,poor mileage,bad spark plugs,inflate tires,My Skoda Slavia has an issue: poor mileage. What could be wrong?
+18,Kia Sonet,AC not cooling,timing belt issue,fix coolant leakage,My Kia Sonet has an issue: AC not cooling. What could be wrong?
+19,Volkswagen Virtus,steering feels heavy,low tire pressure,inflate tires,My Volkswagen Virtus has an issue: steering feels heavy. What could be wrong?
+20,Hyundai i20,smoke from exhaust,faulty oxygen sensor,replace belt,My Hyundai i20 has an issue: smoke from exhaust. What could be wrong?
+21,Honda Jazz,uneven tire wear,wheel bearing issue,repair starter motor,My Honda Jazz has an issue: uneven tire wear. What could be wrong?
+22,Tata Safari,AC not cooling,low tire pressure,clean throttle body,My Tata Safari has an issue: AC not cooling. What could be wrong?
+23,Honda Jazz,battery draining quickly,timing belt issue,add engine oil,My Honda Jazz has an issue: battery draining quickly. What could be wrong?
+24,Maruti Suzuki Swift,AC not cooling,low coolant,inflate tires,My Maruti Suzuki Swift has an issue: AC not cooling. What could be wrong?
+25,Tata Nexon,poor mileage,low engine oil,clean air filter,My Tata Nexon has an issue: poor mileage. What could be wrong?
+26,Toyota Glanza,engine misfiring,alternator failure,replace spark plugs,My Toyota Glanza has an issue: engine misfiring. What could be wrong?
+27,Skoda Slavia,dashboard warning lights,clogged air filter,wheel alignment,My Skoda Slavia has an issue: dashboard warning lights. What could be wrong?
+28,Maruti Suzuki Dzire,gear shifting problem,dirty fuel injector,clean air filter,My Maruti Suzuki Dzire has an issue: gear shifting problem. What could be wrong?
+29,Mahindra XUV700,vibration while driving,faulty thermostat,clean air filter,My Mahindra XUV700 has an issue: vibration while driving. What could be wrong?
+30,Maruti Suzuki Dzire,headlights dimming,low coolant,replace belt,My Maruti Suzuki Dzire has an issue: headlights dimming. What could be wrong?
+31,Maruti Suzuki Alto,smoke from exhaust,low tire pressure,replace spark plugs,My Maruti Suzuki Alto has an issue: smoke from exhaust. What could be wrong?
+32,Mahindra Thar,gear shifting problem,worn brake pads,replace alternator,My Mahindra Thar has an issue: gear shifting problem. What could be wrong?
+33,Hyundai Venue,car won't start,dirty throttle body,repair transmission,My Hyundai Venue has an issue: car won't start. What could be wrong?
+34,Kia Sonet,brakes squeaking,transmission issue,replace spark plugs,My Kia Sonet has an issue: brakes squeaking. What could be wrong?
+35,Hyundai Creta,strange engine noise,wheel misalignment,replace belt,My Hyundai Creta has an issue: strange engine noise. What could be wrong?
+36,Kia Sonet,engine misfiring,dirty fuel injector,repair starter motor,My Kia Sonet has an issue: engine misfiring. What could be wrong?
+37,Renault Triber,check engine light on,coolant leakage,replace spark plugs,My Renault Triber has an issue: check engine light on. What could be wrong?
+38,Skoda Slavia,gear shifting problem,faulty thermostat,inflate tires,My Skoda Slavia has an issue: gear shifting problem. What could be wrong?
+39,Honda Amaze,vibration while driving,dirty throttle body,repair starter motor,My Honda Amaze has an issue: vibration while driving. What could be wrong?
+40,Skoda Slavia,uneven tire wear,worn brake pads,fix coolant leakage,My Skoda Slavia has an issue: uneven tire wear. What could be wrong?
+41,Mahindra XUV700,car won't accelerate properly,bad spark plugs,repair starter motor,My Mahindra XUV700 has an issue: car won't accelerate properly. What could be wrong?
+42,Tata Nexon,battery draining quickly,coolant leakage,replace belt,My Tata Nexon has an issue: battery draining quickly. What could be wrong?
+43,Volkswagen Taigun,car stalling at idle,dead battery,clean throttle body,My Volkswagen Taigun has an issue: car stalling at idle. What could be wrong?
+44,Kia Sonet,engine overheating,dead battery,clean air filter,My Kia Sonet has an issue: engine overheating. What could be wrong?
+45,Maruti Suzuki Baleno,oil leakage,faulty oxygen sensor,replace wheel bearing,My Maruti Suzuki Baleno has an issue: oil leakage. What could be wrong?
+46,Renault Kwid,engine misfiring,clogged air filter,replace wheel bearing,My Renault Kwid has an issue: engine misfiring. What could be wrong?
+47,Skoda Slavia,engine misfiring,bad spark plugs,add engine oil,My Skoda Slavia has an issue: engine misfiring. What could be wrong?
+48,Volkswagen Taigun,steering feels heavy,wheel bearing issue,refill coolant,My Volkswagen Taigun has an issue: steering feels heavy. What could be wrong?
+49,Hyundai i20,battery draining quickly,dirty fuel injector,fix coolant leakage,My Hyundai i20 has an issue: battery draining quickly. What could be wrong?
+50,Maruti Suzuki Dzire,car pulling to one side,faulty oxygen sensor,clean fuel injector,My Maruti Suzuki Dzire has an issue: car pulling to one side. What could be wrong?
+51,Mahindra Thar,headlights dimming,starter motor issue,replace fuel pump,My Mahindra Thar has an issue: headlights dimming. What could be wrong?
+52,Honda Jazz,dashboard warning lights,faulty oxygen sensor,clean throttle body,My Honda Jazz has an issue: dashboard warning lights. What could be wrong?
+53,Tata Nexon,steering feels heavy,wheel bearing issue,replace spark plugs,My Tata Nexon has an issue: steering feels heavy. What could be wrong?
+54,Skoda Kushaq,engine overheating,faulty oxygen sensor,wheel alignment,My Skoda Kushaq has an issue: engine overheating. What could be wrong?
+55,Maruti Suzuki Alto,battery draining quickly,alternator failure,replace thermostat,My Maruti Suzuki Alto has an issue: battery draining quickly. What could be wrong?
+56,Tata Punch,car won't start,low engine oil,replace timing belt,My Tata Punch has an issue: car won't start. What could be wrong?
+57,Kia Seltos,car won't start,low tire pressure,replace thermostat,My Kia Seltos has an issue: car won't start. What could be wrong?
+58,Skoda Kushaq,oil leakage,wheel bearing issue,replace fuel pump,My Skoda Kushaq has an issue: oil leakage. What could be wrong?
+59,Toyota Glanza,dashboard warning lights,alternator failure,refill coolant,My Toyota Glanza has an issue: dashboard warning lights. What could be wrong?
+60,Mahindra Thar,car won't accelerate properly,timing belt issue,replace oxygen sensor,My Mahindra Thar has an issue: car won't accelerate properly. What could be wrong?
+61,Kia Sonet,car won't accelerate properly,starter motor issue,repair starter motor,My Kia Sonet has an issue: car won't accelerate properly. What could be wrong?
+62,Skoda Kushaq,check engine light on,wheel misalignment,clean fuel injector,My Skoda Kushaq has an issue: check engine light on. What could be wrong?
+63,Toyota Innova,car won't accelerate properly,coolant leakage,clean throttle body,My Toyota Innova has an issue: car won't accelerate properly. What could be wrong?
+64,Hyundai Venue,car won't start,serpentine belt worn,inflate tires,My Hyundai Venue has an issue: car won't start. What could be wrong?
+65,Maruti Suzuki Alto,car stalling at idle,serpentine belt worn,replace thermostat,My Maruti Suzuki Alto has an issue: car stalling at idle. What could be wrong?
+66,Kia Sonet,dashboard warning lights,starter motor issue,repair transmission,My Kia Sonet has an issue: dashboard warning lights. What could be wrong?
+67,Toyota Glanza,car stalling at idle,starter motor issue,replace wheel bearing,My Toyota Glanza has an issue: car stalling at idle. What could be wrong?
+68,Hyundai Creta,check engine light on,worn brake pads,replace thermostat,My Hyundai Creta has an issue: check engine light on. What could be wrong?
+69,Skoda Slavia,car stalling at idle,low engine oil,replace belt,My Skoda Slavia has an issue: car stalling at idle. What could be wrong?
+70,Volkswagen Taigun,brakes squeaking,fuel pump failure,fix coolant leakage,My Volkswagen Taigun has an issue: brakes squeaking. What could be wrong?
+71,Tata Safari,vibration while driving,low tire pressure,change brake pads,My Tata Safari has an issue: vibration while driving. What could be wrong?
+72,Skoda Slavia,dashboard warning lights,coolant leakage,repair transmission,My Skoda Slavia has an issue: dashboard warning lights. What could be wrong?
+73,Honda City,engine overheating,faulty thermostat,replace timing belt,My Honda City has an issue: engine overheating. What could be wrong?
+74,Mahindra Thar,gear shifting problem,clogged air filter,wheel alignment,My Mahindra Thar has an issue: gear shifting problem. What could be wrong?
+75,Renault Triber,engine overheating,faulty oxygen sensor,repair transmission,My Renault Triber has an issue: engine overheating. What could be wrong?
+76,Honda Jazz,smoke from exhaust,alternator failure,replace thermostat,My Honda Jazz has an issue: smoke from exhaust. What could be wrong?
+77,Volkswagen Taigun,poor mileage,low tire pressure,wheel alignment,My Volkswagen Taigun has an issue: poor mileage. What could be wrong?
+78,Mahindra Scorpio,steering feels heavy,wheel misalignment,replace timing belt,My Mahindra Scorpio has an issue: steering feels heavy. What could be wrong?
+79,Honda Amaze,car won't accelerate properly,coolant leakage,clean fuel injector,My Honda Amaze has an issue: car won't accelerate properly. What could be wrong?
+80,Tata Punch,steering feels heavy,serpentine belt worn,replace timing belt,My Tata Punch has an issue: steering feels heavy. What could be wrong?
+81,Hyundai i20,gear shifting problem,timing belt issue,replace belt,My Hyundai i20 has an issue: gear shifting problem. What could be wrong?
+82,Toyota Glanza,car pulling to one side,clogged air filter,replace belt,My Toyota Glanza has an issue: car pulling to one side. What could be wrong?
+83,Honda Amaze,brakes squeaking,serpentine belt worn,replace fuel pump,My Honda Amaze has an issue: brakes squeaking. What could be wrong?
+84,Honda Amaze,dashboard warning lights,serpentine belt worn,replace spark plugs,My Honda Amaze has an issue: dashboard warning lights. What could be wrong?
+85,Honda Amaze,headlights dimming,serpentine belt worn,add engine oil,My Honda Amaze has an issue: headlights dimming. What could be wrong?
+86,Honda City,car pulling to one side,timing belt issue,repair starter motor,My Honda City has an issue: car pulling to one side. What could be wrong?
+87,Tata Harrier,uneven tire wear,dead battery,replace oxygen sensor,My Tata Harrier has an issue: uneven tire wear. What could be wrong?
+88,Skoda Kushaq,uneven tire wear,low engine oil,add engine oil,My Skoda Kushaq has an issue: uneven tire wear. What could be wrong?
+89,Tata Nexon,check engine light on,low tire pressure,clean fuel injector,My Tata Nexon has an issue: check engine light on. What could be wrong?
+90,Kia Sonet,steering feels heavy,dirty fuel injector,clean throttle body,My Kia Sonet has an issue: steering feels heavy. What could be wrong?
+91,Hyundai Creta,dashboard warning lights,serpentine belt worn,clean throttle body,My Hyundai Creta has an issue: dashboard warning lights. What could be wrong?
+92,Mahindra Thar,check engine light on,wheel bearing issue,replace timing belt,My Mahindra Thar has an issue: check engine light on. What could be wrong?
+93,Volkswagen Virtus,engine overheating,low coolant,repair starter motor,My Volkswagen Virtus has an issue: engine overheating. What could be wrong?
+94,Toyota Fortuner,check engine light on,low tire pressure,change brake pads,My Toyota Fortuner has an issue: check engine light on. What could be wrong?
+95,Maruti Suzuki Alto,strange engine noise,fuel pump failure,replace spark plugs,My Maruti Suzuki Alto has an issue: strange engine noise. What could be wrong?
+96,Tata Safari,car pulling to one side,dead battery,replace belt,My Tata Safari has an issue: car pulling to one side. What could be wrong?
+97,Honda Jazz,oil leakage,dirty throttle body,fix coolant leakage,My Honda Jazz has an issue: oil leakage. What could be wrong?
+98,Tata Harrier,uneven tire wear,alternator failure,replace wheel bearing,My Tata Harrier has an issue: uneven tire wear. What could be wrong?
+99,Honda City,gear shifting problem,low coolant,replace spark plugs,My Honda City has an issue: gear shifting problem. What could be wrong?
+100,Tata Punch,AC not cooling,starter motor issue,inflate tires,My Tata Punch has an issue: AC not cooling. What could be wrong?
+101,Mahindra Scorpio,brakes squeaking,fuel pump failure,clean throttle body,My Mahindra Scorpio has an issue: brakes squeaking. What could be wrong?
+102,Skoda Slavia,strange engine noise,low engine oil,replace oxygen sensor,My Skoda Slavia has an issue: strange engine noise. What could be wrong?
+103,Maruti Suzuki Alto,gear shifting problem,wheel misalignment,replace belt,My Maruti Suzuki Alto has an issue: gear shifting problem. What could be wrong?
+104,Maruti Suzuki Baleno,strange engine noise,fuel pump failure,replace oxygen sensor,My Maruti Suzuki Baleno has an issue: strange engine noise. What could be wrong?
+105,Mahindra Thar,poor mileage,clogged air filter,refill coolant,My Mahindra Thar has an issue: poor mileage. What could be wrong?
+106,Tata Punch,headlights dimming,low coolant,replace oxygen sensor,My Tata Punch has an issue: headlights dimming. What could be wrong?
+107,Toyota Innova,car won't start,timing belt issue,replace alternator,My Toyota Innova has an issue: car won't start. What could be wrong?
+108,Honda Jazz,dashboard warning lights,bad spark plugs,replace fuel pump,My Honda Jazz has an issue: dashboard warning lights. What could be wrong?
+109,Hyundai i20,engine misfiring,bad spark plugs,change brake pads,My Hyundai i20 has an issue: engine misfiring. What could be wrong?
+110,Skoda Slavia,check engine light on,serpentine belt worn,replace timing belt,My Skoda Slavia has an issue: check engine light on. What could be wrong?
+111,Mahindra Scorpio,brakes squeaking,low coolant,change brake pads,My Mahindra Scorpio has an issue: brakes squeaking. What could be wrong?
+112,Honda Jazz,uneven tire wear,coolant leakage,clean air filter,My Honda Jazz has an issue: uneven tire wear. What could be wrong?
+113,Skoda Slavia,gear shifting problem,low coolant,add engine oil,My Skoda Slavia has an issue: gear shifting problem. What could be wrong?
+114,Toyota Innova,engine misfiring,alternator failure,replace thermostat,My Toyota Innova has an issue: engine misfiring. What could be wrong?
+115,Kia Sonet,vibration while driving,worn brake pads,clean throttle body,My Kia Sonet has an issue: vibration while driving. What could be wrong?
+116,Toyota Glanza,car won't start,faulty oxygen sensor,replace fuel pump,My Toyota Glanza has an issue: car won't start. What could be wrong?
+117,Hyundai i20,vibration while driving,dead battery,replace spark plugs,My Hyundai i20 has an issue: vibration while driving. What could be wrong?
+118,Hyundai Venue,car pulling to one side,dirty fuel injector,repair starter motor,My Hyundai Venue has an issue: car pulling to one side. What could be wrong?
+119,Tata Harrier,brakes squeaking,dead battery,replace fuel pump,My Tata Harrier has an issue: brakes squeaking. What could be wrong?
+120,Renault Kwid,steering feels heavy,low tire pressure,replace timing belt,My Renault Kwid has an issue: steering feels heavy. What could be wrong?
+121,Volkswagen Virtus,battery draining quickly,serpentine belt worn,clean throttle body,My Volkswagen Virtus has an issue: battery draining quickly. What could be wrong?
+122,Toyota Innova,car won't accelerate properly,wheel misalignment,replace spark plugs,My Toyota Innova has an issue: car won't accelerate properly. What could be wrong?
+123,Toyota Innova,gear shifting problem,coolant leakage,repair transmission,My Toyota Innova has an issue: gear shifting problem. What could be wrong?
+124,Tata Safari,uneven tire wear,clogged air filter,replace wheel bearing,My Tata Safari has an issue: uneven tire wear. What could be wrong?
+125,Hyundai Venue,car pulling to one side,wheel misalignment,refill coolant,My Hyundai Venue has an issue: car pulling to one side. What could be wrong?
+126,Honda City,car pulling to one side,alternator failure,replace fuel pump,My Honda City has an issue: car pulling to one side. What could be wrong?
+127,Tata Nexon,brakes squeaking,wheel bearing issue,fix coolant leakage,My Tata Nexon has an issue: brakes squeaking. What could be wrong?
+128,Maruti Suzuki Dzire,engine overheating,low engine oil,replace oxygen sensor,My Maruti Suzuki Dzire has an issue: engine overheating. What could be wrong?
+129,Volkswagen Virtus,oil leakage,alternator failure,add engine oil,My Volkswagen Virtus has an issue: oil leakage. What could be wrong?
+130,Toyota Fortuner,strange engine noise,dirty fuel injector,repair starter motor,My Toyota Fortuner has an issue: strange engine noise. What could be wrong?
+131,Hyundai Creta,strange engine noise,fuel pump failure,replace oxygen sensor,My Hyundai Creta has an issue: strange engine noise. What could be wrong?
+132,Renault Triber,smoke from exhaust,wheel bearing issue,change brake pads,My Renault Triber has an issue: smoke from exhaust. What could be wrong?
+133,Hyundai Venue,steering feels heavy,worn brake pads,repair starter motor,My Hyundai Venue has an issue: steering feels heavy. What could be wrong?
+134,Hyundai i20,AC not cooling,faulty oxygen sensor,inflate tires,My Hyundai i20 has an issue: AC not cooling. What could be wrong?
+135,Kia Seltos,AC not cooling,coolant leakage,clean air filter,My Kia Seltos has an issue: AC not cooling. What could be wrong?
+136,Mahindra Thar,engine misfiring,wheel bearing issue,add engine oil,My Mahindra Thar has an issue: engine misfiring. What could be wrong?
+137,Kia Seltos,check engine light on,low tire pressure,replace fuel pump,My Kia Seltos has an issue: check engine light on. What could be wrong?
+138,Tata Punch,engine overheating,starter motor issue,replace wheel bearing,My Tata Punch has an issue: engine overheating. What could be wrong?
+139,Tata Nexon,steering feels heavy,wheel misalignment,inflate tires,My Tata Nexon has an issue: steering feels heavy. What could be wrong?
+140,Toyota Innova,uneven tire wear,worn brake pads,inflate tires,My Toyota Innova has an issue: uneven tire wear. What could be wrong?
+141,Honda Amaze,vibration while driving,fuel pump failure,replace alternator,My Honda Amaze has an issue: vibration while driving. What could be wrong?
+142,Volkswagen Virtus,car won't accelerate properly,fuel pump failure,clean air filter,My Volkswagen Virtus has an issue: car won't accelerate properly. What could be wrong?
+143,Mahindra Scorpio,strange engine noise,low coolant,replace alternator,My Mahindra Scorpio has an issue: strange engine noise. What could be wrong?
+144,Skoda Slavia,strange engine noise,serpentine belt worn,refill coolant,My Skoda Slavia has an issue: strange engine noise. What could be wrong?
+145,Mahindra Thar,steering feels heavy,starter motor issue,replace wheel bearing,My Mahindra Thar has an issue: steering feels heavy. What could be wrong?
+146,Honda City,oil leakage,dirty throttle body,clean fuel injector,My Honda City has an issue: oil leakage. What could be wrong?
+147,Toyota Glanza,dashboard warning lights,transmission issue,replace timing belt,My Toyota Glanza has an issue: dashboard warning lights. What could be wrong?
+148,Tata Safari,smoke from exhaust,faulty oxygen sensor,refill coolant,My Tata Safari has an issue: smoke from exhaust. What could be wrong?
+149,Maruti Suzuki Swift,dashboard warning lights,wheel bearing issue,add engine oil,My Maruti Suzuki Swift has an issue: dashboard warning lights. What could be wrong?
+150,Hyundai i20,brakes squeaking,dead battery,replace spark plugs,My Hyundai i20 has an issue: brakes squeaking. What could be wrong?
+151,Maruti Suzuki Baleno,smoke from exhaust,low engine oil,add engine oil,My Maruti Suzuki Baleno has an issue: smoke from exhaust. What could be wrong?
+152,Kia Seltos,AC not cooling,coolant leakage,replace thermostat,My Kia Seltos has an issue: AC not cooling. What could be wrong?
+153,Mahindra Scorpio,smoke from exhaust,low tire pressure,replace fuel pump,My Mahindra Scorpio has an issue: smoke from exhaust. What could be wrong?
+154,Renault Kwid,steering feels heavy,wheel bearing issue,replace alternator,My Renault Kwid has an issue: steering feels heavy. What could be wrong?
+155,Maruti Suzuki Alto,headlights dimming,dirty throttle body,clean throttle body,My Maruti Suzuki Alto has an issue: headlights dimming. What could be wrong?
+156,Toyota Glanza,strange engine noise,coolant leakage,replace oxygen sensor,My Toyota Glanza has an issue: strange engine noise. What could be wrong?
+157,Mahindra XUV700,car won't start,clogged air filter,replace oxygen sensor,My Mahindra XUV700 has an issue: car won't start. What could be wrong?
+158,Mahindra Thar,engine misfiring,wheel misalignment,inflate tires,My Mahindra Thar has an issue: engine misfiring. What could be wrong?
+159,Hyundai Creta,engine overheating,starter motor issue,repair transmission,My Hyundai Creta has an issue: engine overheating. What could be wrong?
+160,Honda Jazz,vibration while driving,starter motor issue,inflate tires,My Honda Jazz has an issue: vibration while driving. What could be wrong?
+161,Hyundai Creta,battery draining quickly,faulty thermostat,fix coolant leakage,My Hyundai Creta has an issue: battery draining quickly. What could be wrong?
+162,Honda Jazz,car won't accelerate properly,bad spark plugs,clean throttle body,My Honda Jazz has an issue: car won't accelerate properly. What could be wrong?
+163,Tata Harrier,poor mileage,serpentine belt worn,replace wheel bearing,My Tata Harrier has an issue: poor mileage. What could be wrong?
+164,Renault Kwid,gear shifting problem,alternator failure,repair transmission,My Renault Kwid has an issue: gear shifting problem. What could be wrong?
+165,Hyundai Creta,headlights dimming,faulty oxygen sensor,clean throttle body,My Hyundai Creta has an issue: headlights dimming. What could be wrong?
+166,Tata Safari,check engine light on,coolant leakage,replace spark plugs,My Tata Safari has an issue: check engine light on. What could be wrong?
+167,Renault Triber,car pulling to one side,dirty throttle body,replace spark plugs,My Renault Triber has an issue: car pulling to one side. What could be wrong?
+168,Honda Jazz,AC not cooling,transmission issue,replace wheel bearing,My Honda Jazz has an issue: AC not cooling. What could be wrong?
+169,Tata Punch,car pulling to one side,coolant leakage,clean air filter,My Tata Punch has an issue: car pulling to one side. What could be wrong?
+170,Honda Jazz,engine overheating,timing belt issue,add engine oil,My Honda Jazz has an issue: engine overheating. What could be wrong?
+171,Tata Safari,poor mileage,low engine oil,replace alternator,My Tata Safari has an issue: poor mileage. What could be wrong?
+172,Hyundai Creta,vibration while driving,alternator failure,repair transmission,My Hyundai Creta has an issue: vibration while driving. What could be wrong?
+173,Hyundai Creta,AC not cooling,wheel misalignment,replace oxygen sensor,My Hyundai Creta has an issue: AC not cooling. What could be wrong?
+174,Maruti Suzuki Swift,smoke from exhaust,bad spark plugs,replace wheel bearing,My Maruti Suzuki Swift has an issue: smoke from exhaust. What could be wrong?
+175,Kia Seltos,gear shifting problem,wheel bearing issue,replace alternator,My Kia Seltos has an issue: gear shifting problem. What could be wrong?
+176,Kia Sonet,battery draining quickly,bad spark plugs,repair starter motor,My Kia Sonet has an issue: battery draining quickly. What could be wrong?
+177,Honda Amaze,vibration while driving,dirty fuel injector,wheel alignment,My Honda Amaze has an issue: vibration while driving. What could be wrong?
+178,Tata Nexon,AC not cooling,worn brake pads,replace belt,My Tata Nexon has an issue: AC not cooling. What could be wrong?
+179,Hyundai Creta,battery draining quickly,low coolant,repair starter motor,My Hyundai Creta has an issue: battery draining quickly. What could be wrong?
+180,Renault Kwid,poor mileage,bad spark plugs,replace alternator,My Renault Kwid has an issue: poor mileage. What could be wrong?
+181,Renault Triber,vibration while driving,dirty throttle body,replace belt,My Renault Triber has an issue: vibration while driving. What could be wrong?
+182,Hyundai Creta,AC not cooling,wheel misalignment,inflate tires,My Hyundai Creta has an issue: AC not cooling. What could be wrong?
+183,Kia Seltos,strange engine noise,transmission issue,clean throttle body,My Kia Seltos has an issue: strange engine noise. What could be wrong?
+184,Kia Sonet,vibration while driving,wheel misalignment,replace spark plugs,My Kia Sonet has an issue: vibration while driving. What could be wrong?
+185,Maruti Suzuki Swift,car stalling at idle,alternator failure,replace wheel bearing,My Maruti Suzuki Swift has an issue: car stalling at idle. What could be wrong?
+186,Volkswagen Taigun,car won't start,timing belt issue,replace spark plugs,My Volkswagen Taigun has an issue: car won't start. What could be wrong?
+187,Honda Amaze,check engine light on,timing belt issue,wheel alignment,My Honda Amaze has an issue: check engine light on. What could be wrong?
+188,Tata Harrier,steering feels heavy,dead battery,replace thermostat,My Tata Harrier has an issue: steering feels heavy. What could be wrong?
+189,Toyota Fortuner,poor mileage,fuel pump failure,replace wheel bearing,My Toyota Fortuner has an issue: poor mileage. What could be wrong?
+190,Renault Kwid,smoke from exhaust,starter motor issue,replace battery,My Renault Kwid has an issue: smoke from exhaust. What could be wrong?
+191,Maruti Suzuki Dzire,dashboard warning lights,transmission issue,replace battery,My Maruti Suzuki Dzire has an issue: dashboard warning lights. What could be wrong?
+192,Volkswagen Virtus,smoke from exhaust,coolant leakage,repair transmission,My Volkswagen Virtus has an issue: smoke from exhaust. What could be wrong?
+193,Renault Triber,car pulling to one side,fuel pump failure,replace spark plugs,My Renault Triber has an issue: car pulling to one side. What could be wrong?
+194,Mahindra Thar,brakes squeaking,faulty thermostat,inflate tires,My Mahindra Thar has an issue: brakes squeaking. What could be wrong?
+195,Tata Harrier,engine overheating,bad spark plugs,change brake pads,My Tata Harrier has an issue: engine overheating. What could be wrong?
+196,Renault Kwid,car won't accelerate properly,serpentine belt worn,clean throttle body,My Renault Kwid has an issue: car won't accelerate properly. What could be wrong?
+197,Mahindra Scorpio,brakes squeaking,fuel pump failure,clean air filter,My Mahindra Scorpio has an issue: brakes squeaking. What could be wrong?
+198,Tata Harrier,steering feels heavy,dirty fuel injector,repair starter motor,My Tata Harrier has an issue: steering feels heavy. What could be wrong?
+199,Mahindra Scorpio,car pulling to one side,alternator failure,add engine oil,My Mahindra Scorpio has an issue: car pulling to one side. What could be wrong?
+200,Hyundai Creta,car pulling to one side,dirty throttle body,fix coolant leakage,My Hyundai Creta has an issue: car pulling to one side. What could be wrong?

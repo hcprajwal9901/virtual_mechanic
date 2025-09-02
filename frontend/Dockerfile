@@ -1,11 +1,19 @@
+# Use Node.js base image
 FROM node:20-alpine
+
 WORKDIR /app
-COPY package.json /app/
-RUN npm install --no-audit --fund=false
-COPY index.html /app/index.html
-COPY vite.config.js /app/vite.config.js
-COPY src /app/src
-COPY public /app/public
+
+# Copy only package.json and package-lock.json first
+COPY package*.json ./
+
+# Install ALL dependencies including devDependencies
+RUN npm install --include=dev
+
+# Copy rest of the frontend code
+COPY . .
+
 EXPOSE 3000
-ENV VITE_API_BASE=
-CMD ["npm", "run", "preview"]
+
+# Run vite via npx (uses local node_modules)
+CMD ["npx", "vite", "--host"]
+

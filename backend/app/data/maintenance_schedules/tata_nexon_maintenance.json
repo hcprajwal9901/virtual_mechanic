@@ -1,0 +1,10 @@
+{
+    "car_model": "Tata Nexon",
+    "maintenance_schedule": {
+        "oil_change_km": 15000,
+        "brake_pad_km": 30000,
+        "coolant_change_km": 40000,
+        "timing_belt_km": 100000,
+        "tire_rotation_km": 10000
+    }
+}

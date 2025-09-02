@@ -1,0 +1,10 @@
+{
+    "car_model": "Kia Seltos",
+    "maintenance_schedule": {
+        "oil_change_km": 12000,
+        "brake_pad_km": 30000,
+        "coolant_change_km": 45000,
+        "timing_belt_km": 70000,
+        "tire_rotation_km": 12000
+    }
+}

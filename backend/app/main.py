@@ -2,6 +2,8 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.core.config import settings
 from app.api.v1.api_router import api_router
+from app.services.diagnostic_service import diagnose
+
 
 app = FastAPI(title=settings.APP_NAME)
 

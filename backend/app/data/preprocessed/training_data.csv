@@ -1,0 +1,201 @@
+id,car_model,symptom,cause,label,fix
+1,Hyundai Venue,AC not cooling,wheel bearing issue,wheel_bearing_issue,replace spark plugs
+2,Renault Kwid,engine misfiring,bad spark plugs,bad_spark_plugs,replace belt
+3,Renault Triber,uneven tire wear,low engine oil,low_engine_oil,change brake pads
+4,Maruti Suzuki Baleno,headlights dimming,worn brake pads,worn_brake_pads,replace fuel pump
+5,Honda Amaze,vibration while driving,coolant leakage,coolant_leakage,replace oxygen sensor
+6,Kia Seltos,engine misfiring,low coolant,low_coolant,replace thermostat
+7,Kia Sonet,car won't accelerate properly,starter motor issue,starter_motor_issue,replace oxygen sensor
+8,Tata Harrier,uneven tire wear,worn brake pads,worn_brake_pads,wheel alignment
+9,Renault Triber,strange engine noise,clogged air filter,clogged_air_filter,clean air filter
+10,Hyundai Venue,car won't accelerate properly,serpentine belt worn,serpentine_belt_worn,replace fuel pump
+11,Tata Nexon,uneven tire wear,low engine oil,low_engine_oil,wheel alignment
+12,Tata Safari,car stalling at idle,faulty oxygen sensor,faulty_oxygen_sensor,repair starter motor
+13,Skoda Kushaq,gear shifting problem,wheel bearing issue,wheel_bearing_issue,clean fuel injector
+14,Renault Kwid,brakes squeaking,serpentine belt worn,serpentine_belt_worn,replace fuel pump
+15,Honda City,oil leakage,dirty fuel injector,dirty_fuel_injector,repair transmission
+16,Maruti Suzuki Swift,poor mileage,wheel misalignment,wheel_misalignment,wheel alignment
+17,Renault Triber,headlights dimming,alternator failure,alternator_failure,change brake pads
+18,Skoda Kushaq,battery draining quickly,wheel bearing issue,wheel_bearing_issue,replace timing belt
+19,Tata Punch,vibration while driving,bad spark plugs,bad_spark_plugs,refill coolant
+20,Toyota Innova,check engine light on,low coolant,low_coolant,clean throttle body
+21,Hyundai Creta,headlights dimming,faulty thermostat,faulty_thermostat,refill coolant
+22,Volkswagen Virtus,smoke from exhaust,dirty fuel injector,dirty_fuel_injector,replace wheel bearing
+23,Mahindra Thar,engine overheating,faulty oxygen sensor,faulty_oxygen_sensor,clean fuel injector
+24,Volkswagen Virtus,headlights dimming,wheel bearing issue,wheel_bearing_issue,clean fuel injector
+25,Toyota Glanza,engine overheating,timing belt issue,timing_belt_issue,inflate tires
+26,Maruti Suzuki Baleno,car won't start,coolant leakage,coolant_leakage,fix coolant leakage
+27,Hyundai i20,car pulling to one side,fuel pump failure,fuel_pump_failure,replace alternator
+28,Renault Triber,steering feels heavy,serpentine belt worn,serpentine_belt_worn,clean fuel injector
+29,Tata Harrier,uneven tire wear,timing belt issue,timing_belt_issue,wheel alignment
+30,Honda Jazz,car pulling to one side,wheel misalignment,wheel_misalignment,replace battery
+31,Maruti Suzuki Swift,AC not cooling,dirty throttle body,dirty_throttle_body,replace wheel bearing
+32,Tata Harrier,gear shifting problem,wheel misalignment,wheel_misalignment,inflate tires
+33,Maruti Suzuki Swift,car won't start,coolant leakage,coolant_leakage,replace alternator
+34,Volkswagen Virtus,brakes squeaking,low coolant,low_coolant,change brake pads
+35,Skoda Kushaq,dashboard warning lights,serpentine belt worn,serpentine_belt_worn,refill coolant
+36,Volkswagen Taigun,car won't start,dirty throttle body,dirty_throttle_body,replace spark plugs
+37,Maruti Suzuki Dzire,steering feels heavy,dirty fuel injector,dirty_fuel_injector,replace timing belt
+38,Tata Harrier,battery draining quickly,dead battery,dead_battery,clean fuel injector
+39,Renault Triber,car won't accelerate properly,bad spark plugs,bad_spark_plugs,fix coolant leakage
+40,Hyundai Creta,check engine light on,dead battery,dead_battery,repair transmission
+41,Tata Harrier,engine overheating,low engine oil,low_engine_oil,repair transmission
+42,Skoda Slavia,smoke from exhaust,timing belt issue,timing_belt_issue,replace spark plugs
+43,Maruti Suzuki Swift,oil leakage,coolant leakage,coolant_leakage,replace thermostat
+44,Renault Triber,car won't start,timing belt issue,timing_belt_issue,clean fuel injector
+45,Toyota Innova,car won't start,fuel pump failure,fuel_pump_failure,change brake pads
+46,Maruti Suzuki Alto,car won't accelerate properly,faulty thermostat,faulty_thermostat,clean throttle body
+47,Renault Triber,headlights dimming,faulty oxygen sensor,faulty_oxygen_sensor,replace battery
+48,Maruti Suzuki Swift,engine overheating,coolant leakage,coolant_leakage,fix coolant leakage
+49,Maruti Suzuki Baleno,car stalling at idle,dirty throttle body,dirty_throttle_body,add engine oil
+50,Honda City,battery draining quickly,dirty fuel injector,dirty_fuel_injector,replace oxygen sensor
+51,Skoda Kushaq,car won't accelerate properly,faulty thermostat,faulty_thermostat,refill coolant
+52,Kia Sonet,engine overheating,low engine oil,low_engine_oil,inflate tires
+53,Maruti Suzuki Swift,car won't accelerate properly,wheel bearing issue,wheel_bearing_issue,refill coolant
+54,Maruti Suzuki Alto,brakes squeaking,starter motor issue,starter_motor_issue,inflate tires
+55,Maruti Suzuki Swift,engine overheating,coolant leakage,coolant_leakage,replace alternator
+56,Hyundai i20,car pulling to one side,dirty fuel injector,dirty_fuel_injector,wheel alignment
+57,Toyota Fortuner,steering feels heavy,wheel bearing issue,wheel_bearing_issue,replace alternator
+58,Kia Seltos,car pulling to one side,wheel misalignment,wheel_misalignment,refill coolant
+59,Skoda Slavia,engine misfiring,fuel pump failure,fuel_pump_failure,wheel alignment
+60,Mahindra Thar,steering feels heavy,serpentine belt worn,serpentine_belt_worn,clean air filter
+61,Skoda Kushaq,AC not cooling,low engine oil,low_engine_oil,fix coolant leakage
+62,Toyota Fortuner,car stalling at idle,alternator failure,alternator_failure,clean throttle body
+63,Kia Seltos,car won't start,low tire pressure,low_tire_pressure,clean air filter
+64,Honda City,car stalling at idle,bad spark plugs,bad_spark_plugs,clean air filter
+65,Mahindra XUV700,uneven tire wear,alternator failure,alternator_failure,replace belt
+66,Skoda Slavia,car stalling at idle,starter motor issue,starter_motor_issue,change brake pads
+67,Toyota Fortuner,steering feels heavy,dirty throttle body,dirty_throttle_body,replace battery
+68,Tata Harrier,vibration while driving,coolant leakage,coolant_leakage,replace timing belt
+69,Maruti Suzuki Dzire,dashboard warning lights,clogged air filter,clogged_air_filter,wheel alignment
+70,Kia Seltos,oil leakage,low engine oil,low_engine_oil,inflate tires
+71,Volkswagen Virtus,car won't start,clogged air filter,clogged_air_filter,repair starter motor
+72,Maruti Suzuki Dzire,dashboard warning lights,wheel misalignment,wheel_misalignment,repair transmission
+73,Tata Safari,car won't start,low coolant,low_coolant,replace alternator
+74,Mahindra Thar,engine overheating,dirty fuel injector,dirty_fuel_injector,replace wheel bearing
+75,Maruti Suzuki Alto,poor mileage,serpentine belt worn,serpentine_belt_worn,replace timing belt
+76,Renault Triber,vibration while driving,transmission issue,transmission_issue,clean throttle body
+77,Honda Amaze,steering feels heavy,dead battery,dead_battery,change brake pads
+78,Honda Jazz,vibration while driving,clogged air filter,clogged_air_filter,inflate tires
+79,Maruti Suzuki Swift,strange engine noise,faulty thermostat,faulty_thermostat,replace belt
+80,Toyota Glanza,poor mileage,bad spark plugs,bad_spark_plugs,inflate tires
+81,Tata Punch,car pulling to one side,transmission issue,transmission_issue,replace wheel bearing
+82,Mahindra Scorpio,engine overheating,coolant leakage,coolant_leakage,clean air filter
+83,Renault Kwid,gear shifting problem,worn brake pads,worn_brake_pads,refill coolant
+84,Tata Nexon,engine overheating,faulty thermostat,faulty_thermostat,clean throttle body
+85,Maruti Suzuki Dzire,headlights dimming,worn brake pads,worn_brake_pads,repair transmission
+86,Maruti Suzuki Baleno,car won't start,bad spark plugs,bad_spark_plugs,replace spark plugs
+87,Tata Safari,car stalling at idle,fuel pump failure,fuel_pump_failure,replace battery
+88,Renault Triber,car won't accelerate properly,faulty oxygen sensor,faulty_oxygen_sensor,repair starter motor
+89,Volkswagen Virtus,headlights dimming,alternator failure,alternator_failure,change brake pads
+90,Renault Kwid,uneven tire wear,wheel misalignment,wheel_misalignment,repair transmission
+91,Maruti Suzuki Alto,engine overheating,low tire pressure,low_tire_pressure,clean throttle body
+92,Maruti Suzuki Baleno,car pulling to one side,alternator failure,alternator_failure,replace alternator
+93,Mahindra Scorpio,oil leakage,clogged air filter,clogged_air_filter,fix coolant leakage
+94,Honda Amaze,car won't accelerate properly,coolant leakage,coolant_leakage,clean throttle body
+95,Honda City,engine overheating,faulty oxygen sensor,faulty_oxygen_sensor,change brake pads
+96,Kia Sonet,headlights dimming,alternator failure,alternator_failure,replace battery
+97,Honda Amaze,car stalling at idle,wheel bearing issue,wheel_bearing_issue,replace thermostat
+98,Renault Kwid,gear shifting problem,dead battery,dead_battery,replace wheel bearing
+99,Mahindra XUV700,dashboard warning lights,fuel pump failure,fuel_pump_failure,replace wheel bearing
+100,Volkswagen Virtus,smoke from exhaust,worn brake pads,worn_brake_pads,add engine oil
+101,Renault Kwid,headlights dimming,low engine oil,low_engine_oil,replace fuel pump
+102,Toyota Innova,car won't accelerate properly,wheel misalignment,wheel_misalignment,clean air filter
+103,Mahindra Scorpio,engine misfiring,wheel misalignment,wheel_misalignment,clean air filter
+104,Mahindra Thar,strange engine noise,low tire pressure,low_tire_pressure,replace wheel bearing
+105,Volkswagen Virtus,engine misfiring,bad spark plugs,bad_spark_plugs,replace oxygen sensor
+106,Kia Sonet,smoke from exhaust,faulty oxygen sensor,faulty_oxygen_sensor,add engine oil
+107,Kia Sonet,car pulling to one side,dirty fuel injector,dirty_fuel_injector,change brake pads
+108,Maruti Suzuki Alto,car stalling at idle,dead battery,dead_battery,replace alternator
+109,Mahindra Scorpio,oil leakage,worn brake pads,worn_brake_pads,change brake pads
+110,Renault Triber,car pulling to one side,low coolant,low_coolant,replace spark plugs
+111,Tata Punch,vibration while driving,wheel bearing issue,wheel_bearing_issue,replace spark plugs
+112,Hyundai Creta,smoke from exhaust,wheel misalignment,wheel_misalignment,replace wheel bearing
+113,Hyundai i20,headlights dimming,wheel misalignment,wheel_misalignment,replace alternator
+114,Maruti Suzuki Swift,vibration while driving,dirty fuel injector,dirty_fuel_injector,replace thermostat
+115,Renault Triber,dashboard warning lights,low tire pressure,low_tire_pressure,refill coolant
+116,Mahindra Scorpio,dashboard warning lights,low engine oil,low_engine_oil,replace thermostat
+117,Toyota Innova,oil leakage,worn brake pads,worn_brake_pads,replace wheel bearing
+118,Maruti Suzuki Alto,strange engine noise,low engine oil,low_engine_oil,clean fuel injector
+119,Mahindra Scorpio,smoke from exhaust,dirty throttle body,dirty_throttle_body,replace thermostat
+120,Volkswagen Virtus,gear shifting problem,starter motor issue,starter_motor_issue,repair starter motor
+121,Tata Nexon,gear shifting problem,coolant leakage,coolant_leakage,replace belt
+122,Tata Nexon,vibration while driving,dead battery,dead_battery,replace oxygen sensor
+123,Maruti Suzuki Swift,oil leakage,low engine oil,low_engine_oil,replace timing belt
+124,Honda City,headlights dimming,clogged air filter,clogged_air_filter,replace battery
+125,Skoda Kushaq,car won't accelerate properly,faulty thermostat,faulty_thermostat,replace oxygen sensor
+126,Maruti Suzuki Alto,AC not cooling,faulty thermostat,faulty_thermostat,refill coolant
+127,Honda City,AC not cooling,faulty thermostat,faulty_thermostat,replace battery
+128,Toyota Fortuner,gear shifting problem,wheel misalignment,wheel_misalignment,replace oxygen sensor
+129,Honda Jazz,oil leakage,fuel pump failure,fuel_pump_failure,replace alternator
+130,Honda City,uneven tire wear,wheel bearing issue,wheel_bearing_issue,replace fuel pump
+131,Kia Sonet,battery draining quickly,dead battery,dead_battery,wheel alignment
+132,Toyota Fortuner,car won't start,wheel misalignment,wheel_misalignment,wheel alignment
+133,Tata Safari,gear shifting problem,faulty oxygen sensor,faulty_oxygen_sensor,repair transmission
+134,Honda City,strange engine noise,worn brake pads,worn_brake_pads,refill coolant
+135,Honda Amaze,engine overheating,timing belt issue,timing_belt_issue,replace belt
+136,Tata Harrier,dashboard warning lights,low coolant,low_coolant,add engine oil
+137,Honda Jazz,car won't start,dead battery,dead_battery,replace fuel pump
+138,Toyota Glanza,dashboard warning lights,clogged air filter,clogged_air_filter,replace wheel bearing
+139,Mahindra Scorpio,headlights dimming,coolant leakage,coolant_leakage,replace belt
+140,Hyundai Creta,uneven tire wear,low coolant,low_coolant,clean fuel injector
+141,Toyota Glanza,headlights dimming,low tire pressure,low_tire_pressure,fix coolant leakage
+142,Hyundai Venue,check engine light on,dirty fuel injector,dirty_fuel_injector,change brake pads
+143,Kia Seltos,brakes squeaking,low engine oil,low_engine_oil,inflate tires
+144,Honda Jazz,car won't start,dirty throttle body,dirty_throttle_body,inflate tires
+145,Mahindra Thar,car stalling at idle,fuel pump failure,fuel_pump_failure,replace fuel pump
+146,Hyundai i20,engine misfiring,serpentine belt worn,serpentine_belt_worn,wheel alignment
+147,Toyota Fortuner,car stalling at idle,wheel bearing issue,wheel_bearing_issue,clean throttle body
+148,Hyundai Venue,engine misfiring,dead battery,dead_battery,wheel alignment
+149,Tata Nexon,check engine light on,coolant leakage,coolant_leakage,inflate tires
+150,Volkswagen Virtus,dashboard warning lights,fuel pump failure,fuel_pump_failure,replace oxygen sensor
+151,Skoda Slavia,gear shifting problem,dirty fuel injector,dirty_fuel_injector,change brake pads
+152,Honda Amaze,gear shifting problem,serpentine belt worn,serpentine_belt_worn,replace belt
+153,Toyota Innova,strange engine noise,timing belt issue,timing_belt_issue,clean air filter
+154,Toyota Fortuner,brakes squeaking,dirty fuel injector,dirty_fuel_injector,refill coolant
+155,Volkswagen Taigun,engine misfiring,timing belt issue,timing_belt_issue,replace oxygen sensor
+156,Maruti Suzuki Dzire,smoke from exhaust,faulty oxygen sensor,faulty_oxygen_sensor,fix coolant leakage
+157,Hyundai Creta,car pulling to one side,starter motor issue,starter_motor_issue,inflate tires
+158,Mahindra Scorpio,car pulling to one side,alternator failure,alternator_failure,replace battery
+159,Honda Jazz,car won't start,wheel misalignment,wheel_misalignment,clean fuel injector
+160,Kia Seltos,car stalling at idle,timing belt issue,timing_belt_issue,replace belt
+161,Mahindra Thar,smoke from exhaust,faulty thermostat,faulty_thermostat,replace timing belt
+162,Tata Nexon,check engine light on,coolant leakage,coolant_leakage,clean air filter
+163,Honda Jazz,steering feels heavy,transmission issue,transmission_issue,replace wheel bearing
+164,Honda Amaze,battery draining quickly,starter motor issue,starter_motor_issue,replace oxygen sensor
+165,Toyota Glanza,engine overheating,clogged air filter,clogged_air_filter,fix coolant leakage
+166,Maruti Suzuki Dzire,battery draining quickly,low engine oil,low_engine_oil,clean throttle body
+167,Kia Sonet,brakes squeaking,transmission issue,transmission_issue,replace timing belt
+168,Tata Nexon,battery draining quickly,low engine oil,low_engine_oil,refill coolant
+169,Maruti Suzuki Baleno,dashboard warning lights,serpentine belt worn,serpentine_belt_worn,replace thermostat
+170,Renault Triber,uneven tire wear,serpentine belt worn,serpentine_belt_worn,clean fuel injector
+171,Renault Triber,car pulling to one side,alternator failure,alternator_failure,clean throttle body
+172,Kia Sonet,car won't accelerate properly,wheel bearing issue,wheel_bearing_issue,change brake pads
+173,Hyundai i20,car won't start,fuel pump failure,fuel_pump_failure,add engine oil
+174,Toyota Fortuner,smoke from exhaust,alternator failure,alternator_failure,replace thermostat
+175,Maruti Suzuki Baleno,battery draining quickly,coolant leakage,coolant_leakage,clean air filter
+176,Tata Harrier,smoke from exhaust,low engine oil,low_engine_oil,clean fuel injector
+177,Tata Nexon,vibration while driving,wheel bearing issue,wheel_bearing_issue,replace spark plugs
+178,Tata Punch,check engine light on,timing belt issue,timing_belt_issue,refill coolant
+179,Hyundai i20,uneven tire wear,wheel misalignment,wheel_misalignment,change brake pads
+180,Mahindra Scorpio,brakes squeaking,serpentine belt worn,serpentine_belt_worn,replace spark plugs
+181,Maruti Suzuki Swift,oil leakage,worn brake pads,worn_brake_pads,clean air filter
+182,Tata Harrier,car won't start,fuel pump failure,fuel_pump_failure,wheel alignment
+183,Volkswagen Virtus,steering feels heavy,transmission issue,transmission_issue,repair starter motor
+184,Toyota Fortuner,car won't accelerate properly,fuel pump failure,fuel_pump_failure,repair transmission
+185,Honda City,gear shifting problem,coolant leakage,coolant_leakage,refill coolant
+186,Toyota Glanza,strange engine noise,alternator failure,alternator_failure,clean throttle body
+187,Toyota Fortuner,engine overheating,serpentine belt worn,serpentine_belt_worn,inflate tires
+188,Toyota Glanza,car won't start,starter motor issue,starter_motor_issue,replace wheel bearing
+189,Renault Triber,car won't start,transmission issue,transmission_issue,replace fuel pump
+190,Hyundai Creta,AC not cooling,faulty thermostat,faulty_thermostat,clean fuel injector
+191,Toyota Fortuner,headlights dimming,coolant leakage,coolant_leakage,replace fuel pump
+192,Maruti Suzuki Alto,uneven tire wear,dirty fuel injector,dirty_fuel_injector,replace thermostat
+193,Hyundai i20,car pulling to one side,wheel bearing issue,wheel_bearing_issue,replace battery
+194,Maruti Suzuki Dzire,headlights dimming,serpentine belt worn,serpentine_belt_worn,replace battery
+195,Renault Kwid,dashboard warning lights,dirty throttle body,dirty_throttle_body,wheel alignment
+196,Tata Nexon,brakes squeaking,dead battery,dead_battery,fix coolant leakage
+197,Volkswagen Virtus,dashboard warning lights,low tire pressure,low_tire_pressure,replace battery
+198,Honda City,car won't accelerate properly,starter motor issue,starter_motor_issue,fix coolant leakage
+199,Toyota Glanza,engine overheating,coolant leakage,coolant_leakage,repair starter motor
+200,Mahindra Thar,oil leakage,low coolant,low_coolant,replace battery
