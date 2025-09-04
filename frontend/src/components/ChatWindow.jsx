@@ -82,7 +82,7 @@ export default function ChatWindow(){
         {messages.map((m, i) => <MessageBubble key={i} role={m.role} text={m.text} />)}
       </div>
 
-      <div style={{borderTop:'1px solid #2a345d'}}>
+      <div style={{borderTop:'1px solid #f01919b9'}}>
         <InputBar onSend={send} />
       </div>
     </div>

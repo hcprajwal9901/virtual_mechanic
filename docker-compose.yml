@@ -17,6 +17,5 @@ services:
     container_name: virtualmechanic-frontend
     ports:
       - "3000:3000"
-    volumes:
-      - ./frontend:/app
-    command: npx vite --host
+    
+    command:  npm run dev -- --port 3000 --host
