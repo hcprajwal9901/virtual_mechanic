@@ -1,5 +1,5 @@
 
-# Virtual Mechanic (Chatbot)
+# Virtual Mechanic (Chatbot)  still in progress 
 
 An end‑to‑end **Virtual Mechanic** that diagnoses car issues from a chat conversation, suggests maintenance based on odometer, and shares proactive car‑care tips.
 
@@ -36,9 +36,10 @@ npm run dev  # opens on http://localhost:3000
 ```
 virtual-mechanic/
 ├── backend/ (FastAPI)
+    └── data/ (sample maintenance schedules & rules)
 ├── frontend/ (React + Vite)
 ├── ml/ (placeholders for future ML)
-└── data/ (sample maintenance schedules & rules)
+
 ```
 
 ## Notes
