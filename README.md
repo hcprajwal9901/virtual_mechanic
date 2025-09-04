@@ -36,9 +36,10 @@ npm run dev  # opens on http://localhost:3000
 ```
 virtual-mechanic/
 ├── backend/ (FastAPI)
+    └── data/ (sample maintenance schedules & rules)
 ├── frontend/ (React + Vite)
 ├── ml/ (placeholders for future ML)
-└── data/ (sample maintenance schedules & rules)
+
 ```
 
 ## Notes
